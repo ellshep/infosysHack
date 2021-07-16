@@ -1,0 +1,45 @@
+* {
+  color: #ffcc66;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+.home,
+.Blind,
+.Deaf,
+.sign-up {
+  color: #ffcc66;
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.Blind{
+  color: #ffcc66;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 100px;
+}
+
+.Deaf{
+  color:#ffcc66;
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  font-size: 100px;
+}
+
+.sign-up {
+
+  color: #ffcc66 ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 100px;
+}
