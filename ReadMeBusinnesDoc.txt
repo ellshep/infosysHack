@@ -1,0 +1,4 @@
+The purpose of this project was to create an interactive website for those who are visually impared and Hearing impared learners. 
+We wanted to make sure that text that was put in was read aloud for those who coul not see and that the speech was turned into text for those who are deaf. 
+The technologies that we used were react js and python. The react js was used to make an interactive website and the python was used to help with audio and text translations. 
+We wanted the students to signup to have a learning experience. We wanted the technology to help both the student and the teacher in their learning experience we did not want. 
